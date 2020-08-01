@@ -31,6 +31,8 @@ pip install PyQt5 pds4-tools colour colour-demosaicing scikit-image --upgrade
 python changeviewer.py
 ```
 
+![运行截图](demo.png)
+
 ## 附录：CE-4数据产品文件命名规则
 
 嫦娥四号数据产品的文件名称采用如下格式进行命名：
