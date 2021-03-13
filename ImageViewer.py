@@ -187,6 +187,8 @@ class ChangEViewer(ImageViewer):
         # 读一个pds数据
         img = self.readCurrentImage()
 
+        print(img['rgb_data'])
+
         if img['rgb_data'] is not None:
             p = img['rgb_data'] * 255
             p = p.astype('uint8')
