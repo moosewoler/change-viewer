@@ -3,7 +3,11 @@ An image viewer for opening and browsing .2B files of ChangE4 project published 
 
 # 嫦娥探月数据浏览
 
-![远望嫦娥](C0123_543210_10%.png)
+![远望嫦娥](panorama_C_0123.png)
+
+## 快速体验
+
+`test`文件夹中包含了一个简短的例子，可以将2B数据文件另存为图片。
 
 ## 1. 数据网站
 
