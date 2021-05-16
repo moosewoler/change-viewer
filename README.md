@@ -3,7 +3,9 @@ An image viewer for opening and browsing .2B files of ChangE4 project published 
 
 # 嫦娥探月数据浏览
 
-![远望嫦娥](panorama_C_0123.png)
+1[双目示例-远望嫦娥4](sbs_C_0076.png)
+
+![全景示例-远望嫦娥4](panorama_C_0123.png)
 
 ## 快速体验
 
